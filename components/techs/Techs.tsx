@@ -9,9 +9,7 @@ const Techs = () => {
       <div className="relative">
         <div className="flex flex-col items-center justify-center gap-8 rounded-lg bg-none ">
           <p className="regular-paragraph z-10 max-w-[850px] md:text-center">
-            Building effective and innovative solutions requires the right
-            technologies. We leverage a carefully selected set of modern tools
-            and frameworks to bring these solutions to life, including:
+            At Bugeros, we build fast and smart — powered by modern frameworks, battle-tested tools, and scalable architecture. Here are the technologies we trust:
           </p>
 
           <div className="flex flex-wrap gap-x-3 gap-y-2 md:max-w-[600px] md:items-center md:justify-center ">

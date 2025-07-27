@@ -1,6 +1,7 @@
 import { CircleGauge, Layers, Package } from 'lucide-react';
 
-export const skills = [
+export const skills = 
+[
   {
     id: 'scalability',
     gradientColor: 'var(--jungle--green)',
@@ -13,10 +14,10 @@ export const skills = [
       background: 'var(--black--bean)',
     },
     content:
-      'I specialize in front-end architectures that scale as your applications and teams grow, using modular structures and efficient workflows.',
+      'We build systems that grow with your product — stable, flexible, and future-ready.',
   },
   {
-    id: 'Performance',
+    id: 'performance',
     gradientColor: 'var(--azure--radiance)',
     asset: {
       background: 'var(--blue--zodiac)',
@@ -27,7 +28,7 @@ export const skills = [
       background: 'var(--downriver)',
     },
     content:
-      'I ensure front-end applications are optimized for speed, responsiveness, and seamless user experiences as they are efficient for developers.',
+      'Fast, smooth, and optimized — we deliver top-tier user experiences.',
   },
   {
     id: 'modularity',
@@ -41,9 +42,11 @@ export const skills = [
       background: 'var(--rose-of--sharon-2)',
     },
     content:
-      'I create reusable components, libraries, and tools that empower teams to build consistent and efficient front-end solutions at scale.',
+      'Reusable components and clean code — made for teams that scale.',
   },
 ];
+
+
 
 export const slugs = [
   'typescript',

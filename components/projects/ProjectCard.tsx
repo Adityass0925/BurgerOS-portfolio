@@ -2,15 +2,18 @@ import Image from 'next/image';
 
 const ProjectCard = ({ src, title }: { src: string; title: string }) => {
   return (
-    <div className="z-10 h-[400px] w-[350px] overflow-hidden rounded-xl shadow-2xl md:mt-32">
+    <div className="z-10 w-[360px] h-[240px] overflow-hidden rounded-xl shadow-2xl md:mt-32">
       <Image
         src={src}
         alt={title}
-        width={350}
-        height={400}
-        className="size-full bg-cover bg-center"
+        width={360}
+        height={240}
+        className="h-full w-full object-cover"
+        quality={90}
+        priority
       />
     </div>
   );
 };
+
 export default ProjectCard;

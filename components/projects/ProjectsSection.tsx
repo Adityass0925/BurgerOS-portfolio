@@ -6,10 +6,9 @@ const ProjectsSection = () => {
       <div className="mb-12 space-y-8 px-6 md:mb-0 xl:px-56">
         <h2 className="h2-bold">Projects</h2>
         <p className="regular-paragraph max-w-[835px]">
-          We&apos;ve worked on a wide range of projects, from scalable web
-          applications and reusable UI component libraries to backend APIs and
-          microfrontend architectures. Here are some examples of my latest work:
+          From full-stack platforms to hackathons and SaaS tools, we’ve tackled real problems with bold ideas and clean execution. Here’s a look at what we’ve built at Bugeros:
         </p>
+
       </div>
 
       <Projects />

@@ -8,17 +8,18 @@ const Hero = () => {
     <section className="relative px-6 pb-44" style={{ contain: 'layout' }}>
       <div className="pt-48">
         <h1 className="h1-bold flex flex-col items-start md:items-center">
-          <span>Crafting</span>
-          <span>memorable user &</span>
-          <span>developer experiences</span>
+          <span>We build</span>
+          <span>impactful digital products &</span>
+          <span>startup-driven experiences</span>
         </h1>
       </div>
 
       <div className="mt-12 flex flex-col-reverse gap-8 md:flex-row md:justify-center md:gap-20 lg:gap-32">
         <div className="flex w-fit flex-col items-start gap-4">
           <p className="font-Silkscreen font-normal uppercase text-gray-400 md:mt-8 md:text-2xl">
-            BurgerOS
+            BugerOS
           </p>
+
           <div>
             <Link
               href="https://www.linkedin.com/company/scaleonn"
@@ -40,19 +41,19 @@ const Hero = () => {
 
         <div className="flex flex-wrap gap-2 md:flex-col">
           <p className="font-Silkscreen font-normal uppercase text-gray-400">
-            Building...
+              Known for...
           </p>
           <p className="w-fit rounded-md bg-celtic px-2 font-Silkscreen text-[18px] font-normal uppercase">
-            <span className="text-oceangreen">Well designed</span>
+            <span className="text-oceangreen">Startup-ready projects</span>
           </p>
           <p className="w-fit rounded-md bg-downriver px-2 font-Silkscreen text-[18px] font-normal uppercase">
-            <span className="text-dodgerblue">well architected</span>
+            <span className="text-dodgerblue">community hackathons</span>
           </p>
           <p className="w-fit rounded-md bg-antiquebronze px-2 font-Silkscreen text-[18px] font-normal uppercase">
-            <span className="text-foreground">and scalable</span>
+            <span className="text-foreground">affordable web solutions</span>
           </p>
           <p className="w-fit rounded-md bg-revolver px-2 font-Silkscreen text-[18px] font-normal uppercase">
-            <span className="text-violet-400/85">web apps</span>
+            <span className="text-violet-400/85">collaborative spirit</span>
           </p>
         </div>
       </div>

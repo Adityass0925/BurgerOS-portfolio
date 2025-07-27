@@ -9,14 +9,11 @@ const About = () => {
         <div className="space-y-8 md:text-center">
           <h2 className="h2-bold">About us</h2>
           <p className="regular-paragraph mx-auto max-w-[835px]">
-           Hi 👋, we’re{' '}
-<span className="text-code text-yellow-600">BurgerOS</span>, a creative team passionate about building{' '}
-<span className="text-green-700">engaging</span> and{' '}
-<span className="text-blue-600">impactful</span> digital experiences. We focus on designing and developing websites and platforms that are both{' '}
-<span className="text-orange-500">delightful for users</span> and{' '}
-<span className="text-purple-600">efficient for businesses.</span>
+            Hey 👋 we’re <span className="text-code text-yellow-600">Bugeros</span> — a team building startup-ready products with smart tech and clean design. 
 
-Whether it's transforming how logistics work through <strong>Bidzy</strong> or reimagining sustainability with <strong>BinTrack</strong>, we turn bold ideas into real, working products. At BurgerOS, we don’t just build websites — we craft meaningful experiences that drive growth, solve problems, and leave a lasting impression.
+            From bidding platforms like <strong>Bidzy</strong> to green tools like <strong>Bintract</strong>, and even hosting <strong>PortxFolio</strong> — we love solving real problems. We also run <strong>Scaleon</strong>, offering affordable websites for growing businesses.
+
+            We build fast, we build smart, and we build together.
           </p>
         </div>
 
