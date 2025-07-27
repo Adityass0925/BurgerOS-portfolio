@@ -5,7 +5,7 @@
   <img src="./public/android-chrome-192x192.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Adel Guitoun</b></h3>
+  <h3><b>BurgerOS</b></h3>
 
 </div>
 
